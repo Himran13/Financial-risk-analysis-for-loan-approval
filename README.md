@@ -19,7 +19,7 @@ The goal is to help financial institutions make data-driven lending decisions.
 
 ## Files
 - `Financial_Risk_Analysis_For_Loan_Approval.ipynb` – Jupyter Notebook with full code and analysis
-- Database file loan.csv  
+ 
 
 ## 🔧 Tools & Libraries
 - Python, Pandas, NumPy, Matplotlib, Seaborn  
